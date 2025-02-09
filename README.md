@@ -3,7 +3,10 @@
 **A Premium Horological Web Experience**  
 *Crafted with Precision CSS & JavaScript*
 
-
+<p align="center">
+  <a href="[https://yourusername.github.io/luxury-chronograph](https://ihsansaif313.github.io/WEB-DIGITAL-CLOCK/)" target="_blank">
+    <img src="https://img.shields.io/badge/Experience_Live-Demo-2ecc71?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo">
+  </a>
 
 ## 🌟 Features  
 - **Luxury Watch Design**: Circular face with diamond-cut bezel & metallic gradients  
@@ -18,9 +21,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **CSS**: Transform3D, Gradient Layers, Custom Animations  
-- **JavaScript**: Precision Timing API  
-- **Fonts**: Playfair Display (Google Fonts)  
+
 
 ## 🚀 Installation  
 1. Clone repository:  
@@ -34,5 +35,19 @@
 - Watch sweeping second hand & updating complications  
 - Resize window to test responsive behavior  
 
-## 🌍 Live Demo  
-[View Live Deployment]([https://yourusername.github.io/luxury-chronograph](https://ihsansaif313.github.io/WEB-DIGITAL-CLOCK/))  
+## 🌐 Live Experience 
+
+<p align="center">
+  <a href="[https://yourusername.github.io/luxury-chronograph](https://ihsansaif313.github.io/WEB-DIGITAL-CLOCK/)" target="_blank">
+    <img src="https://img.shields.io/badge/Experience_Live-Demo-2ecc71?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo">
+  </a>
+  
+ 
+
+<div align="center">
+  🕑 Live Preview • 🖥 Interactive 3D • 🔄 Real-time Updates
+</div>
+
+<br>
+
+
