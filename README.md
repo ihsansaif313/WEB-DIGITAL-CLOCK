@@ -3,8 +3,8 @@
 **A Premium Horological Web Experience**  
 *Crafted with Precision CSS & JavaScript*
 
-<p align="center">
-  <a href="[https://ihsansaif313.github.io/luxury-chronograph](https://ihsansaif313.github.io/WEB-DIGITAL-CLOCK/)" target="_blank">
+  <p align="center">
+  <a href="https://ihsansaif313.github.io/WEB-DIGITAL-CLOCK/">
     <img src="https://img.shields.io/badge/Experience_Live-Demo-2ecc71?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo">
   </a>
 
@@ -38,10 +38,9 @@
 ## 🌐 Live Experience 
 
 <p align="center">
-  <a href="[https://yourusername.github.io/luxury-chronograph](https://ihsansaif313.github.io/WEB-DIGITAL-CLOCK/)" target="_blank">
+  <a href="https://ihsansaif313.github.io/WEB-DIGITAL-CLOCK/">
     <img src="https://img.shields.io/badge/Experience_Live-Demo-2ecc71?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo">
   </a>
-  
  
 
 <div align="center">
