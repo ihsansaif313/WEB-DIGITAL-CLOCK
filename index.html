@@ -4,24 +4,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Neon Digital Clock - by Ihsan Saif</title>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap">
+    <title>Luxury Chronograph - by Ihsan Saif</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
-        <h1>Digital Chronometer</h1>
-    </header>
-    <main>
-        <div class="time">
+    <div class="time">
+        <div class="markers"></div>
+        <div class="complication" style="top:20%; left:20%">
+            <span>AM/PM</span>
+            <div class="complication-value">PM</div>
+        </div>
+        <div class="complication" style="bottom:20%; right:20%">
+            <span>DAY</span>
+            <div class="complication-value">31</div>
+        </div>
+        <div class="crown"></div>
+        <div class="time-display">
             <h1 id="timeh" class="first">00</h1>
+            <h1 class="separator">:</h1>
             <h1 id="timem" class="middle">00</h1>
+            <h1 class="separator">:</h1>
             <h1 id="times" class="last">00</h1>
         </div>
-    </main>
-    <footer>
-        <div>© 2023 Ihsan Saif. All rights reserved.</div>
-    </footer>
+    </div>
    <script src="script.js"></script>
 </body>
 </html>
